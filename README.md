@@ -30,15 +30,20 @@ random
 | February | $80     |
 | March    | $420    |
 
+<!--
 <img src="test.svg">
+-->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+
+<!--
 <style>
 a:hover{
     cursor: crosshair;
 }
 
 </style>
-
+-->
 
 <!--
 ![alt text](https://media.licdn.com/dms/image/D4E0BAQG28wMbYCfCkg/company-logo_200_200/0/1701422199523/elan_formation_logo?e=2147483647&v=beta&t=uXG9eD2QkvMPLQ0u0cIgkhRB8UtsuwCKCprbmYky2HI)
