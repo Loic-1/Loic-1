@@ -14,6 +14,10 @@
 2. Ordered 1
 3. Ordered 1
 
+```python
+random
+```
+
 <style>
 a:hover{
     cursor: crosshair;
