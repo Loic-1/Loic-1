@@ -30,11 +30,10 @@ random
 | February | $80     |
 | March    | $420    |
 
-<!--
 <img src="test.svg">
--->
 
 <h2> Test Stats</h2>
+
 <div class="stats">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
