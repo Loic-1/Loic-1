@@ -46,6 +46,10 @@ random
 
 
 <style>
+h2 {
+    text-align: center;
+}
+
 a{
     cursor: crosshair;
 }
