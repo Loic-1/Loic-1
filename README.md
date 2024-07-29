@@ -1,7 +1,8 @@
 # BIG HEADER
 ## Hi there 👋
 <a href="https://youtube.com/">CLIQUERTEST</a>
-
+**Bold**
+*Italic*
 
 <style>
 a:hover{
