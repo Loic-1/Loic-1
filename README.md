@@ -30,6 +30,8 @@ random
 | February | $80     |
 | March    | $420    |
 
+![body](test.svg)
+
 <style>
 a:hover{
     cursor: crosshair;
