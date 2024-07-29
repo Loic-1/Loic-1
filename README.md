@@ -18,6 +18,12 @@
 random
 ```
 
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
 <style>
 a:hover{
     cursor: crosshair;
