@@ -30,7 +30,7 @@ random
 | February | $80     |
 | March    | $420    |
 
-![body](test.svg)
+<img src="test.svg">
 
 <style>
 a:hover{
