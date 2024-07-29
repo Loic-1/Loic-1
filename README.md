@@ -34,16 +34,29 @@ random
 <img src="test.svg">
 -->
 
+<h2> Test Stats</h2>
+<div class="stats">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
-<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Loic-1&theme=synthwave&hide_border=true)
+</div>
+
+
 <style>
-a:hover{
+a{
     cursor: crosshair;
 }
 
+.stats{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
 </style>
--->
 
 <!--
 ![alt text](https://media.licdn.com/dms/image/D4E0BAQG28wMbYCfCkg/company-logo_200_200/0/1701422199523/elan_formation_logo?e=2147483647&v=beta&t=uXG9eD2QkvMPLQ0u0cIgkhRB8UtsuwCKCprbmYky2HI)
