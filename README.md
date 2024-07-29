@@ -1,8 +1,10 @@
 # BIG HEADER
 ## Hi there 👋
-<a href="https://youtube.com/">Liens Test</a> <br>
-**Bold** <br>
-*Italic* <br>
+<a href="https://youtube.com/">Liens Test</a>
+
+**Bold** 
+
+*Italic* 
 
 - Unordered 1
 - Unordered 2
