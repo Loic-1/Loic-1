@@ -1,4 +1,8 @@
+<div align="center">
+
 # BIG HEADER
+</div>
+
 ## Hi there 👋
 <a href="https://youtube.com/">Liens Test</a>
 
@@ -34,9 +38,11 @@ random
 <img src="test.svg">
 -->
 <div align="center">
-Test Stats
+
+## Test Stats
 </div>
-<div class="stats">
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
@@ -47,20 +53,7 @@ Test Stats
 
 
 <style>
-h2 {
-    text-align: center;
-}
 
-a{
-    cursor: crosshair;
-}
-
-.stats{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
-}
 </style>
 
 <!--
