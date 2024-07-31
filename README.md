@@ -21,8 +21,14 @@
 ```python
 bloc de code random
 ```
+<!--
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+-->
+
+<div align="center">
 
 | Month    | Savings |
+|:--------:|:-------:|
 | -------- | :-------: |
 | January  | $250    |
 | February | $80     |
@@ -33,7 +39,7 @@ bloc de code random
 | January  | $250    |
 | February | $80     |
 | March    | $420    |
-
+</div>
 <!--
 <img src="test.svg">
 -->
