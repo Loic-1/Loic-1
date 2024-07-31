@@ -49,6 +49,15 @@ bloc de code random
 
 <div align="center">
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=true&count_private=true">
+  <img alt="GitHub Stats for Loic-1" src="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=true&count_private=true">
+</picture>
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
