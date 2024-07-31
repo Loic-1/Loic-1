@@ -21,6 +21,7 @@
 ```python
 random
 ```
+<div align="center">
 
 | Month    | Savings |
 |:--------:|:-------:|
@@ -33,7 +34,7 @@ random
 | January  | $250    |
 | February | $80     |
 | March    | $420    |
-
+</div>
 <!--
 <img src="test.svg">
 -->
