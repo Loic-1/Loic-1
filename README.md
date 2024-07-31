@@ -69,6 +69,10 @@ Icônes applis
 
 
 
+![Termux Logo](https://royal-opera.fr/wp-content/uploads/2018/05/lhistoire-de-la-recette-du-coq-au-vin.jpg#gh-dark-mode-only)
+![Termux Logo](https://i.notretemps.com/1200x628/smart/2021/05/06/les-bienfaits-de-la-salade.jpeg#gh-light-mode-only)
+
+
 
 <!--
 **Loic-1/Loic-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
