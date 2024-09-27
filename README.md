@@ -52,7 +52,7 @@ bloc de code random
 ## Mes statistiques
 </div>
 
-<div align="left" margin="15px">
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=vue&show_icons=true&hide_border=true&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true">
@@ -60,7 +60,7 @@ bloc de code random
 </picture>
 </div>
 
-<div align="left">
+<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=vue&show_icons=true&hide_border=true&layout=compact">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&layout=compact">
@@ -68,7 +68,7 @@ bloc de code random
 </picture>
 </div>
 
-<div align="left">
+<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Loic-1&theme=vue&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Loic-1&theme=synthwave&hide_border=true">
