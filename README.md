@@ -47,12 +47,12 @@ bloc de code random
 <!--
 <img src="test.svg">
 -->
-<div align="center" margin="15px">
+<div align="center">
 
 ## Mes statistiques
 </div>
 
-<div align="left">
+<div align="left" margin="15px">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=vue&show_icons=true&hide_border=true&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true">
