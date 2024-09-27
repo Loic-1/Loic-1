@@ -47,7 +47,7 @@ bloc de code random
 <!--
 <img src="test.svg">
 -->
-<div align="center">
+<div align="center" margin="15px">
 
 ## Mes statistiques
 </div>
@@ -59,10 +59,6 @@ bloc de code random
   <img alt="GitHub Stats for Loic-1" src="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=true&count_private=true">
 </picture>
 </div>
-
-
-
-
 
 <div align="left">
 <picture align="center">
