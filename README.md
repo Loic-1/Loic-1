@@ -1,10 +1,10 @@
 <div align="center">
 
-# BIG HEADER (Loic AVSILE)
+# BIG HEADER (Loic VASILE)
 </div>
 
 ## Hi there 👋 (Sous titre)
-<a href="https://youtube.com/">Liens Test</a>
+<a href="https://www.linkedin.com/in/lo%C3%AFc-vasile-223836226/">Mon LinkedIn</a>
 
 **Bold** 
 
@@ -18,13 +18,15 @@
 2. Ordered 1
 3. Ordered 1
 
+<!--
 ```python
 bloc de code random
 ```
+-->
 <!--
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 -->
-
+<!--
 <div align="center">
 
 | Month    | Savings |
@@ -39,6 +41,7 @@ bloc de code random
 | February | $80     |
 | March    | $420    |
 </div>
+-->
 <!--
 <img src="test.svg">
 -->
