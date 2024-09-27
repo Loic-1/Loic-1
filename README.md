@@ -6,6 +6,7 @@
 ## Hi there 👋 (Sous titre)
 <a href="https://www.linkedin.com/in/lo%C3%AFc-vasile-223836226/" target="_blank">Mon LinkedIn</a>
 
+<!--
 **Bold** 
 
 *Italic* 
@@ -17,6 +18,7 @@
 1. Ordered 1
 2. Ordered 1
 3. Ordered 1
+-->
 
 <!--
 ```python
