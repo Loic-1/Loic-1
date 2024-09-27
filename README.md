@@ -60,6 +60,10 @@ bloc de code random
 </picture>
 </div>
 
+
+
+
+
 <div align="left">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=vue&show_icons=true&hide_border=true&layout=compact">
