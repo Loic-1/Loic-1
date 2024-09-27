@@ -5,6 +5,7 @@
 
 ## Hi there 👋 (Sous titre)
 <a href="https://www.linkedin.com/in/lo%C3%AFc-vasile-223836226/">Mon LinkedIn</a>
+[Mon LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-vasile-223836226/){:target="_blank"}
 
 **Bold** 
 
