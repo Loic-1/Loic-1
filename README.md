@@ -4,7 +4,7 @@
 </div>
 
 ## Hi there 👋 (Sous titre)
-<a href="https://www.linkedin.com/in/lo%C3%AFc-vasile-223836226/" target="_blank">Mon LinkedIn</a>
+<a href="https://www.linkedin.com/in/lo%C3%AFc-vasile-223836226/" target="blank">Mon LinkedIn</a>
 
 <!--
 **Bold** 
