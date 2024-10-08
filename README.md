@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/lo%C3%AFc-vasile-223836226/" target="_blank">Mon LinkedIn</a>
 
 <div align="center">
-
+-->
 ## Mes statistiques
 </div>
 
@@ -49,4 +49,3 @@
   <img alt="GitHub Stats for Loic-1" src="https://github-readme-streak-stats.herokuapp.com/?user=Loic-1&theme=default&hide_border=true">
 </picture>
 </div>
--->
