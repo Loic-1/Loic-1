@@ -1,5 +1,5 @@
-<img src="github-header-image.png" alt="Header" style="width: 100%; height: auto;" />
-<!--![Header](github-header-image.png)-->
+<!--<img src="github-header-image.png" alt="Header" style="width: 100%; height: auto;" />-->
+![Header](github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 <h3 align="center">A passionate web development student at Elan Formation</h3>
