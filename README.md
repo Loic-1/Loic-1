@@ -5,9 +5,9 @@
 <h2>What I'm currently learning 📚</h2>
 Frontend: React API calls </br>
 Backend: Webapp creation with Symfony, API creation with Symfony
-
+<!--
 ---
-
+-->
 ### 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -35,9 +35,9 @@ Backend: Webapp creation with Symfony, API creation with Symfony
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
 </p>
-
+<!--
 ---
-
+-->
 ### 📊 My GitHub Statistics:
 
 <div align="center">
@@ -65,9 +65,9 @@ Backend: Webapp creation with Symfony, API creation with Symfony
   </picture>
 
 </div>
-
+<!--
 ---
-
+-->
 ### 🌟 GitHub Trophies:
 <p align="center"> 
   <picture>
@@ -76,14 +76,15 @@ Backend: Webapp creation with Symfony, API creation with Symfony
     <img src="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=default&margin-w=15&margin-h=15" alt="GitHub Trophies for Loic-1">
   </picture>
 </p>
-
+<!--
 ---
-
+-->
 ### 📫 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
+<!--
 ---
+-->
