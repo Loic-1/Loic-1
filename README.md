@@ -4,8 +4,8 @@
 <h3 align="center">A passionate web development student at Elan Formation</h3>
 
 - 🌱 Currently learning: </br>
-**Frontend: React API calls**
-**Backend: Webapp creation with Symfony, API creation with Symfony** </br>
+**Frontend: React API calls** </br>
+**Backend: Webapp creation with Symfony, API creation with Symfony**
 ---
 
 ### 🛠️ Languages and Tools:
