@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 <h3 align="center">A passionate web development student at Elan Formation</h3>
 
-- 🌱 Currently learning: **Backend: Webapp creation with Symfony, API creation with Symfony** </br> **Frontend: React API calls**
+- 🌱 Currently learning: </br>
+**Frontend: React API calls**
+**Backend: Webapp creation with Symfony, API creation with Symfony** </br>
 ---
 
 ### 🛠️ Languages and Tools:
