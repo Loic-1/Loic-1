@@ -1,7 +1,7 @@
 <img src="github-header-image.png" alt="Header" style="width: 100%; height: auto;" />
 
 <details open>
-<summary>Close ✂️</summary>
+<summary><strong> Close profile ✂️</strong></summary>
 
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 <h3 align="center">A passionate web development student at Elan Formation</h3>
