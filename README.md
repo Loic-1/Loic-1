@@ -84,5 +84,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
