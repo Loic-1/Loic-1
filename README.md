@@ -7,7 +7,7 @@
 - Backend: Webapp creation with Symfony, API creation with Symfony
 
 ## Languages and Tools 🛠️
-<p align="center" style="padding: 1000px;">
+<p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   </a>
