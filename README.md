@@ -72,9 +72,9 @@
     <img width="500" alt="GitHub Streak for Loic-1" src="https://github-readme-streak-stats.herokuapp.com/?user=Loic-1&theme=default&hide_border=true">
   </picture>
 -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Loic-1&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Loic-1&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
