@@ -73,8 +73,17 @@
   </picture>
 -->
 
-</div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Loic-1&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Loic-1&show_icons=true" />
+</picture>
 
 ---
 
