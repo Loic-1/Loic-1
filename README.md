@@ -1,7 +1,7 @@
 <img src="github-header-image.png" alt="Header" style="width: 100%; height: auto;" />
 
 <h1 align="center">Hi 👋, I'm Loïc</h1>
-<h3 align="center">A passionate web development student at Elan Formation</h3>
+<h3 align="center">A passionate web development student at [Elan Formation](https://elan-formation.fr/accueil)</h3>
 
 - 🌱 I’m currently learning **Backend: JS, PHP, MySQL**
 
@@ -84,3 +84,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+---
