@@ -6,11 +6,7 @@
 Frontend: React API calls </br>
 Backend: Webapp creation with Symfony, API creation with Symfony
 
-<!--
----
--->
-
-## 🛠️ Languages and Tools:
+## Languages and Tools 🛠️
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
@@ -38,11 +34,7 @@ Backend: Webapp creation with Symfony, API creation with Symfony
   </a>
 </p>
 
-<!--
----
--->
-
-### 📊 My GitHub Statistics:
+## My GitHub Statistics 📊
 
 <div align="center">
 
@@ -70,11 +62,7 @@ Backend: Webapp creation with Symfony, API creation with Symfony
 
 </div>
 
-<!--
----
--->
-
-### 🌟 GitHub Trophies:
+## GitHub Trophies 🌟
 <p align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=onedark&margin-w=15&margin-h=15">
@@ -83,16 +71,9 @@ Backend: Webapp creation with Symfony, API creation with Symfony
   </picture>
 </p>
 
-<!--
----
--->
-
-### 📫 Connect with Me:
+## Connect with Me 📫
 <p align="left">
   <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-<!--
----
--->
