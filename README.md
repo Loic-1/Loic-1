@@ -60,7 +60,11 @@
 
 ### 🌟 GitHub Trophies:
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=loic-1" alt="GitHub Trophies for Loic-1" /> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&theme=onedark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&theme=flat">
+    <img src="https://github-profile-trophy.vercel.app/?username=loic-1&theme=default" alt="GitHub Trophies for Loic-1">
+  </picture>
 </p>
 
 ---
