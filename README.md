@@ -65,27 +65,12 @@
   </picture>
 
   <br/>
-<!--
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Loic-1&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Loic-1&theme=default&hide_border=true">
     <img width="500" alt="GitHub Streak for Loic-1" src="https://github-readme-streak-stats.herokuapp.com/?user=Loic-1&theme=default&hide_border=true">
   </picture>
--->
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Loic-1&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ---
 
