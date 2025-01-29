@@ -47,7 +47,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="margin: 10px;"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="margin: 100px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 10px;"> 
