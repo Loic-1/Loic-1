@@ -57,8 +57,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=default&show_icons=true&hide_border=true&layout=compact">
     <img width="300" alt="Most Used Languages for Loic-1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=default&show_icons=true&hide_border=true&layout=compact">
   </picture>
-
+<!--
   <br/>
+  -->
 <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Loic-1&theme=tokyonight&hide_border=true">
