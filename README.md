@@ -62,7 +62,7 @@ Backend: Webapp creation with Symfony, API creation with Symfony
 
 </div>
 
-## Trophies 🏆🌟
+## Trophies 🏆🎖️
 <p align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=onedark&margin-w=15&margin-h=15">
