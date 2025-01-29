@@ -80,7 +80,7 @@
 ---
 
 ### 📫 Connect with Me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
