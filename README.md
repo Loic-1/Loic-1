@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 <h3 align="center">A passionate web development student at Elan Formation</h3>
+
 ## What I'm currently learning 📚
 
 - Frontend: React API calls
