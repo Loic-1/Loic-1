@@ -4,15 +4,6 @@
 <h3 align="center">A passionate web development student at Elan Formation</h3>
 
 - 🌱 I’m currently learning **Backend: JS, PHP, MySQL**
-  
----
-
-### 📫 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 ---
 
@@ -83,6 +74,15 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=flat&margin-w=15&margin-h=15">
     <img src="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=default&margin-w=15&margin-h=15" alt="GitHub Trophies for Loic-1">
   </picture>
+</p>
+
+---
+
+### 📫 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
