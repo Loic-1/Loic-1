@@ -5,6 +5,7 @@
 <h2>What I'm currently learning 📚</h2>
 Frontend: React API calls </br>
 Backend: Webapp creation with Symfony, API creation with Symfony
+
 ---
 
 ### 🛠️ Languages and Tools:
