@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 <h3 align="center">A passionate web development student at Elan Formation</h3>
-<h2>vfgvbdbfdbdfbgf</h2>
-- 🌱 Currently learning: </br>
+<h2>What I'm currently learning 📚</h2>
 **Frontend: React API calls** </br>
 **Backend: Webapp creation with Symfony, API creation with Symfony**
 ---
