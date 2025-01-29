@@ -70,5 +70,5 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=loic-1&column=2&label=Profile%20views&color=0e75b6&style=flat" alt="loic-1" />
+  <img src="https://komarev.com/ghpvc/?username=loic-1&column=3&label=Profile%20views&color=0e75b6&style=flat" alt="loic-1" />
 </p>
