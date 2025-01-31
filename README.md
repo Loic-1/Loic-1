@@ -85,4 +85,6 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/Loic-1/Loic-1/refs/heads/main/assets/socials/LinkedIN.png" />
+
 </details>
