@@ -6,7 +6,12 @@
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 <h3 align="center">A passionate web development student at Elan Formation</h3>
 
-## What I'm currently learning 📚
+<h2> What I'm currently learning 📚 </h2>
+
+<ul>
+  <li>Frontend: React API calls</li>
+  <li>Backend: Webapp creation with Symfony, API creation with Symfony</li>
+</ul>
 
 - Frontend: React API calls
 - Backend: Webapp creation with Symfony, API creation with Symfony
