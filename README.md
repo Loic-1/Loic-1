@@ -85,6 +85,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Loic-1/Loic-1/refs/heads/main/assets/socials/LinkedIN.png" height="20" />
+<img src="https://raw.githubusercontent.com/Loic-1/Loic-1/refs/heads/main/assets/socials/LinkedIN.png" height="50" />
 
 </details>
