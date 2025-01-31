@@ -79,12 +79,8 @@
 </p>
 
 ## Contact 📫
-<p align="left">
-  <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
+<a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/">
 <img src="https://raw.githubusercontent.com/Loic-1/Loic-1/refs/heads/main/assets/socials/LinkedIN.png" height="50" />
+</a>
 
 </details>
