@@ -85,7 +85,7 @@
 <h2>Contact 📫</h2>
 
 <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/">
-  <img src="https://raw.githubusercontent.com/Loic-1/Loic-1/refs/heads/main/assets/socials/LinkedIN.png" height="50" />
+  <img src="https://raw.githubusercontent.com/Loic-1/Loic-1/refs/heads/main/assets/socials/LinkedIN.png" height="50" alt="LinkedIn icon redirecting to Loic Vasile's profile" />
 </a>
 
 </details>
