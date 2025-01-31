@@ -1,5 +1,4 @@
 <!-- <img src="github-header-image.png" alt="Header" style="width: 100%; height: auto;" /> -->
-<img src="github-header-image.png" alt="Header" style="width: 100%; height: auto;" />
 
 <details open>
 <summary><strong> Close profile ✂️</strong></summary>
