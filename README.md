@@ -13,10 +13,7 @@
   <li>Backend: Webapp creation with Symfony, API creation with Symfony</li>
 </ul>
 
-- Frontend: React API calls
-- Backend: Webapp creation with Symfony, API creation with Symfony
-
-## Languages and Tools 🛠️
+<h2>Languages and Tools 🛠️</h2>
 
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
