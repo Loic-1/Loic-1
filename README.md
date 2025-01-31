@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 <h3 align="center">A passionate web development student at Elan Formation</h3>
 
-<h2> What I'm currently learning 📚 </h2>
+<h2>What I'm currently learning 📚</h2>
 
 <ul>
   <li>Frontend: React API calls</li>
@@ -42,10 +42,10 @@
   </a>
 </p>
 
-## My Stats 📊📈
+<h2>My Stats 📊📈</h2>
 
 <div align="center">
-
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=true&count_private=true">
@@ -69,9 +69,11 @@
     <img width="500" alt="GitHub Streak for Loic-1" src="https://github-readme-streak-stats.herokuapp.com?user=Loic-1&theme=default&hide_border=true">
   </picture>
 -->
+
 </div>
 
-## Trophies 🌟🎖️
+<h2>Trophies 🌟🎖️</h2>
+
 <p align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=onedark&margin-w=15&margin-h=15">
@@ -80,7 +82,8 @@
   </picture>
 </p>
 
-## Contact 📫
+<h2>Contact 📫</h2>
+
 <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/">
   <img src="https://raw.githubusercontent.com/Loic-1/Loic-1/refs/heads/main/assets/socials/LinkedIN.png" height="50" />
 </a>
