@@ -3,8 +3,8 @@
 <details open>
 <summary><strong> Close profile ✂️</strong></summary>
 
-<h1 align="center">Hi 👋, I'm Loïc</h1>
-<h3 align="center">A passionate web development student at Elan Formation</h3>
+<h1 align="left">Hi 👋, I'm Loïc</h1>
+<h3 align="left">A passionate web development student</h3>
 
 <h2>What I'm currently learning 📚</h2>
 
