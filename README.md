@@ -15,7 +15,7 @@
 
 <h2>Languages and Tools 🛠️</h2>
 
-<p align="center">
+<div align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   </a>
@@ -40,7 +40,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
-</p>
+</div>
 
 <h2>My Stats 📊📈</h2>
 
@@ -59,16 +59,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=default&show_icons=true&hide_border=true&layout=compact">
     <img width="300" alt="Most Used Languages for Loic-1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=default&show_icons=true&hide_border=true&layout=compact">
   </picture>
-
-  <br/>
-  
-<!--
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Loic-1&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Loic-1&theme=default&hide_border=true">
-    <img width="500" alt="GitHub Streak for Loic-1" src="https://github-readme-streak-stats.herokuapp.com?user=Loic-1&theme=default&hide_border=true">
-  </picture>
--->
 
 </div>
 
