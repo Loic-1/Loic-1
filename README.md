@@ -74,18 +74,20 @@
 
 <h2>Trophies 🌟🎖️</h2>
 
-<p align="center"> 
+<div align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=onedark&margin-w=15&margin-h=15">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=flat&margin-w=15&margin-h=15">
     <img src="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=default&margin-w=15&margin-h=15" alt="GitHub Trophies for Loic-1">
   </picture>
-</p>
+</div>
 
 <h2>Contact 📫</h2>
 
+<div align="left">
 <a href="https://www.linkedin.com/in/lo%c3%afc-vasile-223836226/">
   <img src="https://raw.githubusercontent.com/Loic-1/Loic-1/refs/heads/main/assets/socials/LinkedIN.png" height="50" alt="LinkedIn icon redirecting to Loic Vasile's profile" />
 </a>
+</div>
 
 </details>
