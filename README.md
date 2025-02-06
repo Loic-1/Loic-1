@@ -8,7 +8,7 @@
   <h3>A passionate web development student</h3>
 </div>
 
-<h2>What I'm currently learning 📚</h2>
+<h2>Currently learning 📚</h2>
 
 <ul>
   <li>Frontend: React API calls</li>
@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<h2>My Stats 📊📈</h2>
+<h2>Stats 📊📈</h2>
 
 <div align="center">
 
