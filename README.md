@@ -67,12 +67,6 @@
 <h2>Trophies 🌟🎖️</h2>
 
 <div align="center"> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=onedark&margin-w=15&margin-h=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=flat&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=default&margin-w=15&margin-h=15" alt="GitHub Trophies for Loic-1">
-  </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=onedark&margin-w=15&margin-h=15&border_color=ffffff">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=loic-1&column=3&theme=flat&margin-w=15&margin-h=15&border_color=000000">
