@@ -48,28 +48,19 @@
 
 <div align="center">
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=tokyonight&show_icons=true&hide_border=false&border_color=ffffff&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=false&border_color=000000&count_private=true">
   <img width="500" alt="GitHub Stats for Loic-1" src="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=false&border_color=000000&count_private=true">
 </picture>
 
+<br/>
 
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=true&count_private=true">
-    <img width="500" alt="GitHub Stats for Loic-1" src="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=true&count_private=true">
-  </picture>
-  
-  <br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=default&show_icons=true&hide_border=true&layout=compact">
-    <img width="300" alt="Most Used Languages for Loic-1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=default&show_icons=true&hide_border=true&layout=compact">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=tokyonight&show_icons=true&hide_border=false&border_color=ffffff&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=default&show_icons=true&hide_border=false&border_color=000000&layout=compact">
+  <img width="300" alt="Most Used Languages for Loic-1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-1&theme=default&show_icons=true&hide_border=false&border_color=000000&layout=compact">
+</picture>
 
 </div>
 
