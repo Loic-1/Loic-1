@@ -8,14 +8,14 @@
   <h3>A passionate web development student</h3>
 </div>
 
-<h2>Currently learning 📚</h2>
+<h2>Currently learning 📚💡</h2>
 
 <ul>
   <li>Frontend: React API calls</li>
   <li>Backend: Webapp creation with Symfony, API creation with Symfony</li>
 </ul>
 
-<h2>Languages and Tools 🛠️</h2>
+<h2>Languages and Tools 🛠️📜</h2>
 
 <div align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
