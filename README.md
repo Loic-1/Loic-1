@@ -47,6 +47,15 @@
 <h2>My Stats 📊📈</h2>
 
 <div align="center">
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=tokyonight&show_icons=true&hide_border=false&border_color=ffffff&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=false&border_color=000000&count_private=true">
+  <img width="500" alt="GitHub Stats for Loic-1" src="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=default&show_icons=true&hide_border=false&border_color=000000&count_private=true">
+</picture>
+
+
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Loic-1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
